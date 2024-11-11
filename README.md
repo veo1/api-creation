@@ -85,8 +85,7 @@ You can test the API using `curl`, Postman, or a web browser.
     ```
 
 ### Directory Structure
-
-    ```plaintext
+    ```
     ├── api.py              # Main application file containing the Flask API
     ├── requirements.txt    # List of Python dependencies
     ├── Dockerfile          # Docker configuration file (optional)
